@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Hasan
-- 👀 I’m interested in building web apps
-- 🌱 I’m currently learning pathfinding algorithms
+- 👀 I build web apps
 - 📫 How to reach me: LinkedIn message
